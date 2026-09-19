@@ -1,0 +1,14 @@
+C:\Users\Lera\projects\MyFirstApp\bin\Debug\net10.0\MyFirstApp.exe
+C:\Users\Lera\projects\MyFirstApp\bin\Debug\net10.0\MyFirstApp.deps.json
+C:\Users\Lera\projects\MyFirstApp\bin\Debug\net10.0\MyFirstApp.runtimeconfig.json
+C:\Users\Lera\projects\MyFirstApp\bin\Debug\net10.0\MyFirstApp.dll
+C:\Users\Lera\projects\MyFirstApp\bin\Debug\net10.0\MyFirstApp.pdb
+C:\Users\Lera\projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lera\projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\Lera\projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.AssemblyInfo.cs
+C:\Users\Lera\projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Lera\projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.dll
+C:\Users\Lera\projects\MyFirstApp\obj\Debug\net10.0\refint\MyFirstApp.dll
+C:\Users\Lera\projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.pdb
+C:\Users\Lera\projects\MyFirstApp\obj\Debug\net10.0\MyFirstApp.genruntimeconfig.cache
+C:\Users\Lera\projects\MyFirstApp\obj\Debug\net10.0\ref\MyFirstApp.dll
