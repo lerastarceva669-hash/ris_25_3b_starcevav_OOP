@@ -99,22 +99,22 @@ namespace Laba_1
 
             float a_f = 1000f, b_f = 0.0001f;
 
-            float temp_num = (float)Math.Pow(a_f, 4) - 4 * b_f * (float)Math.Pow(a_f, 3);
-            float num_f = (float)Math.Pow(a_f - b_f, 4) - temp_num;
+            float temp_num_f = (float)Math.Pow(a_f, 4) - 4 * b_f * (float)Math.Pow(a_f, 3);
+            float num_f = (float)Math.Pow(a_f - b_f, 4) - temp_num_f;
 
-            float temp_den = 6 * (float)Math.Pow(a_f, 2) * (float)Math.Pow(b_f, 2);
-            float den_f =  temp_den - 4 * a_f * (float)Math.Pow(b_f, 3) + (float)Math.Pow(b_f, 4);
+            float temp_den_f = 6 * (float)Math.Pow(a_f, 2) * (float)Math.Pow(b_f, 2);
+            float den_f =  temp_den_f - 4 * a_f * (float)Math.Pow(b_f, 3) + (float)Math.Pow(b_f, 4);
 
             float result_f = num_f / den_f;
 
 
 
             double a_d = 1000, b_d = 0.0001;
-            double temp_num = Math.Pow(a_d, 4) - 4 * b_d * Math.Pow(a_d, 3);
-            double num_d = Math.Pow(a_d - b_d, 4) - temp_num;
+            double temp_num_d = Math.Pow(a_d, 4) - 4 * b_d * Math.Pow(a_d, 3);
+            double num_d = Math.Pow(a_d - b_d, 4) - temp_num_d;
 
-            double temp_den = 6 * Math.Pow(a_d, 2) * Math.Pow(b_d, 2);
-            double den_d = temp_den - 4 * a_d * Math.Pow(b_d, 3) + Math.Pow(b_d, 4);
+            double temp_den_d = 6 * Math.Pow(a_d, 2) * Math.Pow(b_d, 2);
+            double den_d = temp_den_d - 4 * a_d * Math.Pow(b_d, 3) + Math.Pow(b_d, 4);
 
             double result_d = num_d / den_d;
 
