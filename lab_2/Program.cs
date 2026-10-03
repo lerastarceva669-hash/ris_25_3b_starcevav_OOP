@@ -16,7 +16,7 @@ namespace Laba_2
             int n = 50; //количество слагаемых
             double e = 0.0001; //заданная точность
 
-            double step = (b-a) / (k-1); //10 точек
+            double step = (b-a) / (k-1); // шаг для 10 точек
 
             for (int i = 0; i < k; i++)
             {
