@@ -1,0 +1,14 @@
+C:\Users\Lera\Projects\lab_3\lab_3\bin\Debug\net10.0\lab_3.exe
+C:\Users\Lera\Projects\lab_3\lab_3\bin\Debug\net10.0\lab_3.deps.json
+C:\Users\Lera\Projects\lab_3\lab_3\bin\Debug\net10.0\lab_3.runtimeconfig.json
+C:\Users\Lera\Projects\lab_3\lab_3\bin\Debug\net10.0\lab_3.dll
+C:\Users\Lera\Projects\lab_3\lab_3\bin\Debug\net10.0\lab_3.pdb
+C:\Users\Lera\Projects\lab_3\lab_3\obj\Debug\net10.0\lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lera\Projects\lab_3\lab_3\obj\Debug\net10.0\lab_3.AssemblyInfoInputs.cache
+C:\Users\Lera\Projects\lab_3\lab_3\obj\Debug\net10.0\lab_3.AssemblyInfo.cs
+C:\Users\Lera\Projects\lab_3\lab_3\obj\Debug\net10.0\lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Projects\lab_3\lab_3\obj\Debug\net10.0\lab_3.dll
+C:\Users\Lera\Projects\lab_3\lab_3\obj\Debug\net10.0\refint\lab_3.dll
+C:\Users\Lera\Projects\lab_3\lab_3\obj\Debug\net10.0\lab_3.pdb
+C:\Users\Lera\Projects\lab_3\lab_3\obj\Debug\net10.0\lab_3.genruntimeconfig.cache
+C:\Users\Lera\Projects\lab_3\lab_3\obj\Debug\net10.0\ref\lab_3.dll
